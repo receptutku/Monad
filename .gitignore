@@ -95,5 +95,5 @@ jspm_packages/
 tmp/
 temp/
 
-# Monad subdirectory (contains separate git repo)
-Monad/
+# Monad subdirectory - now included in main repo
+# Monad/
